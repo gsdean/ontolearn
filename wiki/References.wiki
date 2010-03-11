@@ -6,3 +6,8 @@ http://www2007.org/papers/paper391.pdf
 
 See this reference for ACE guideline
 http://projects.ldc.upenn.edu/ace/docs/
+==========================================
+From Khalifeh:
+You can download the latest version of the KIM Platform at: 
+http://ontotext.com/kim/kim-install.html 
+You will find KIM documentation and installation details at: http://ontotext.com/kim/doc/sys-doc/Installation.html
