@@ -1,0 +1,14 @@
+#Entities are categorized in a two level hierarchy. 7 type and 44 sub types.
+
+= Introduction =
+
+=Types=
+  *
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  
+=Reference=
+  *[http://www.ldc.upenn.edu/Projects/ACE/docs/EnglishEDTV4-2-6.PDF]
