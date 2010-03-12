@@ -1,4 +1,4 @@
-#Entities are categorized in a two level hierarchy. 7 type and 44 sub types.
+Entities are categorized in a two level hierarchy. 7 type and 44 sub types.
 
 = Introduction =
 The Entity Detection task requires that selected types of entities mentioned in the
