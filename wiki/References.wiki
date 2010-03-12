@@ -1,12 +1,13 @@
 #summary One-sentence summary of this page.
 
-References 
-http://projects.ldc.upenn.edu/ace/docs/EnglishEDTV4-2-6.pdf
-http://www2007.org/papers/paper391.pdf
+=References=
+*[http://projects.ldc.upenn.edu/ace/docs/EnglishEDTV4-2-6.pdf]
+*[http://www2007.org/papers/paper391.pdf]
+*See this reference for ACE guideline[http://projects.ldc.upenn.edu/ace/docs/]
 
-See this reference for ACE guideline
-http://projects.ldc.upenn.edu/ace/docs/
-==========================================
+
+
+----
 From Khalifeh:
 You can download the latest version of the KIM Platform at: 
 http://ontotext.com/kim/kim-install.html 
