@@ -4,13 +4,13 @@
 
 =Types=
 Entities are limited to the following seven types:
-  #Person - Person entities are limited to humans.  A person may be a single individual or a group.
-  #Organization - Organization entities are limited to corporations, agencies, and other groups of people defined by an established organizational structure.
-  #GPE (Geo-political Entity) - GPE entities are geographical regions defined by political and/or social groups.  A GPE entity subsumes and does not distinguish between a nation, its region, its government, or its people.
-  #Location - Location entities are limited to geographical entities such as geographical areas and landmasses, bodies of water, and geological formations.
-  #Facility - Facility entities are limited to buildings and other permanent man-made structures and real estate improvements.
-  #Vehicle – A vehicle entity is a physical device primarily designed to move an object from one location to another, by (for example) carrying, pulling, or pushing the transported object.  Vehicle entities may or may not have their own power source.
-  #Weapon – Weapon entities are limited to physical devices primarily used as instruments for physically harming or destroying other entities.  
+  # Person - Person entities are limited to humans.  A person may be a single individual or a group.
+  # Organization - Organization entities are limited to corporations, agencies, and other groups of people defined by an established organizational structure.
+  # GPE (Geo-political Entity) - GPE entities are geographical regions defined by political and/or social groups.  A GPE entity subsumes and does not distinguish between a nation, its region, its government, or its people.
+  # Location - Location entities are limited to geographical entities such as geographical areas and landmasses, bodies of water, and geological formations.
+  # Facility - Facility entities are limited to buildings and other permanent man-made structures and real estate improvements.
+  # Vehicle – A vehicle entity is a physical device primarily designed to move an object from one location to another, by (for example) carrying, pulling, or pushing the transported object.  Vehicle entities may or may not have their own power source.
+  # Weapon – Weapon entities are limited to physical devices primarily used as instruments for physically harming or destroying other entities.  
 
   
 = Details =
