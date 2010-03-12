@@ -1,6 +1,13 @@
 #Entities are categorized in a two level hierarchy. 7 type and 44 sub types.
 
 = Introduction =
+The Entity Detection task requires that selected types of entities mentioned in the
+source data be detected, their sense disambiguated, and that selected attributes
+of these entities be extracted and merged into a unified representation for each
+entity.
+==Basic Concepts.==
+  * An *entity* is an object or set of objects in the world.
+  * A *mention* is a textual reference to an entity.
 
 =Types=
 Entities are limited to the following seven types:
@@ -12,7 +19,60 @@ Entities are limited to the following seven types:
   # Vehicle – A vehicle entity is a physical device primarily designed to move an object from one location to another, by (for example) carrying, pulling, or pushing the transported object.  Vehicle entities may or may not have their own power source.
   # Weapon – Weapon entities are limited to physical devices primarily used as instruments for physically harming or destroying other entities.  
 
-  
+=Type Hierarchy=
+
+  # *Person*
+   # Individual
+   # Group
+   # Indefinite
+  # *Organization*
+   # Government (GOV)
+   # Commercial (COM)
+   # Entertainment (ENT)
+   # Educational (EDU)
+   # Media (MED)
+   # Religious (REL)
+   # Medical-Science (SCI)
+   # Sports (SPO)
+  # *GPE (Geo-political Entity)*
+   # Continent
+   # Nation 
+   # State-or-Province
+   # County-or-District
+   # Population-Center
+   # GPE-Cluster
+   # Special
+  # *Location*
+   # Address
+   # Boundary
+   # Celestial
+   # Water-Body
+   # Land-Region-natural
+   # Region-International
+   # Region-General  
+  # *Facility* 
+   # Airport
+   # Plant
+   # Building-or-Grounds
+   # Subarea-Facility
+   # Path
+  # *Vehicle*
+   # Air
+   # Land
+   # Water
+   # Subarea-Vehicle
+   # Underspecified
+  # *Weapon*
+   # Blunt
+   # Exploding
+   # Sharp
+   # Chemical
+   # Biological
+   # Shooting
+   # Projectile
+   # Nuclear
+   # Underspecified
+
 = Details =
 
 Add your content here.  Format your content with:
