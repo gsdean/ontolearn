@@ -72,11 +72,6 @@ Entities are limited to the following seven types:
    # Projectile
    # Nuclear
    # Underspecified
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
   
 =Reference=
   *[http://www.ldc.upenn.edu/Projects/ACE/docs/EnglishEDTV4-2-6.PDF]
