@@ -6,10 +6,11 @@
   * See this reference for ACE guideline [http://projects.ldc.upenn.edu/ace/docs/]
   * OpenCalais JAVA API[http://philippeadjiman.com/blog/2009/09/16/open-calais-from-java-with-eclipse-extract-entities-facts-and-events-in-4-minutes]
   * An Inventory of Semantic Models (Ontologies) for Use When Managing Enterprise Tacit Knowledge [https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/10212/PridmoreBrown-2010.pdf?sequence=1]
-
-
-
-----
+===================================================================================
+From Khalifeh:
+The documentation of GATE:
+http://gate.ac.uk/sale/tao/split.html
+===================================================================================
 From Khalifeh:
 You can download the latest version of the KIM Platform at: 
 http://ontotext.com/kim/kim-install.html 
