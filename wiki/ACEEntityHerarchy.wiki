@@ -75,6 +75,6 @@ Entities are limited to the following seven types:
    # Underspecified
   
 =Reference=
-  * [http://www.ldc.upenn.edu/Projects/ACE/docs/EnglishEDTV4-2-6.PDF|Entities]
-  * [http://projects.ldc.upenn.edu/ace/docs/English-Relations-Guidelines_v5.8.1.doc|Relations]
-  * [http://projects.ldc.upenn.edu/ace/docs/|All]
+  * [http://www.ldc.upenn.edu/Projects/ACE/docs/EnglishEDTV4-2-6.PDF Entities]
+  * [http://projects.ldc.upenn.edu/ace/docs/English-Relations-Guidelines_v5.8.1.doc Relations]
+  * [http://projects.ldc.upenn.edu/ace/docs/ All]
