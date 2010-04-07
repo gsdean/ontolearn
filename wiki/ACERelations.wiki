@@ -2,28 +2,28 @@ The goal of the Relation task is to detect and characterize Relations of the tar
 
 = Relations Hierarchy =
 
-3 Types and Subtypes	14
-3.1. Physical	15
-3.1.1 Located	15
-3.1.2 Near	16
-3.2. Part-whole	17
-3.2.1 Geographical	17
-3.2.2 Subsidiary	18
-3.2.3 Artifact	19
-3.3. Personal-Social	20
-3.3.1 Business	20
-3.3.2 Family	21
-3.3.3 Lasting-Personal	21
-3.4. ORG-Affiliation	24
-3.4.1 Employment	24
-3.4.2 Ownership	25
-3.4.3 Founder	26
-3.4.4 Student-Alum	26
-3.4.5 Sports-Affiliation	27
-3.4.6 Investor-Shareholder	28
-3.4.7 Membership	28
-3.5. Agent-Artifact	30
-3.5.1 User-Owner-Inventor-Manufacturer	30
-3.6. Gen-Affiliation	32
-3.6.1 Citizen-Resident-Religion-Ethnicity	32
-3.6.2 Org-Location-Origin	34
+ #  Types and Subtypes	14
+ # Physical	15
+ # # Located	15
+ # # Near	16
+ # Part-whole	17
+ # # Geographical	17
+ # # Subsidiary	18
+ # #  Artifact	19
+ # Personal-Social	20
+ # # Business	20
+ # # Family	21
+ # # Lasting-Personal	21
+ # ORG-Affiliation	24
+ # # Employment	24
+ # # Ownership	25
+ # # Founder	26
+ # # Student-Alum	26
+ # # Sports-Affiliation	27
+ # # Investor-Shareholder	28
+ # # Membership	28
+ # Agent-Artifact	 # 0
+ # # User-Owner-Inventor-Manufacturer	30
+ # Gen-Affiliation	32
+ # # Citizen-Resident-Religion-Ethnicity	32
+ # # Org-Location-Origin	34
